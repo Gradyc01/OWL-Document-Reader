@@ -1,3 +1,14 @@
+# OWL-Document-Reader
+This project aims to create an OCR-based document processing system that leverages AWS services to eliminate manual data entry for various workflows. By automating data extraction, the system will streamline document handling, reduce errors, and increase processing efficiency across workflows such as mortgage applications, unsecured loans, and new account openings. This system will be designed with flexibility for integration into the financial institution's existing and future API-enabled systems, ensuring
+longevity and adaptability.
+
+As the site is no longer up here are some links as to 
+#### Front-End Showcase: [Link](https://drive.google.com/file/d/10aKXxbypNO4AXWOCi1nL6v5lZxMc9Qjp/view?usp=sharing)
+#### API Documentation: [View Doc](https://docs.google.com/document/d/1WG8NnYNvTrQOT_tedUtMAWgYSOHswKzzmZ-kzx3pCnU/edit?usp=sharing)
+#### Installation: [View Doc](https://docs.google.com/document/d/1a6Rg_4_lA5yilxT-kUhEhCB7McgQE_UyLfjbY37UroA/edit?usp=sharing)
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
